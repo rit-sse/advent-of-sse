@@ -8,7 +8,7 @@ const Navbar = () =>{
       <img src='../images/sse.jpg' onClick=""/>
       <div id='question-block'>
         <a>
-            <Link to="/">Q1</Link>
+            <Link to="/dogs">Q1</Link>
         </a>
         <a>
             <Link to="/">Q2</Link>
