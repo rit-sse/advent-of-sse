@@ -1,36 +1,19 @@
-.home-text{
-    margin: 3em 5em 3em 5em;
-}
-
-h1, h2{
-    text-decoration: underline;
-    text-align: center;
-}
-
-.steps li{
-    margin: 2em;
-}
-.step-img{
-    display: block;
-    margin: .5em auto .5em auto ;
-}
-
 /* unvisited link */
-a:link {
+li a:link {
     color: #1E5A8D;
 }
   
 /* visited link */
-a:visited {
-    color: green;
+li a:visited {
+    color: #1E5A8D;
 }
 
 /* mouse over link */
-a:hover {
+li a:hover {
     color: hotpink;
 }
 
 /* selected link */
-a:active {
+li a:active {
     color: blue;
 }
